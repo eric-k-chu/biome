@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "My personal configuration files",
   "files": [
-    "biome.json"
+    "biome.json",
+    "prettier.json"
   ],
   "publishConfig": {
     "access": "public"
