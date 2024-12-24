@@ -1,0 +1,13 @@
+{
+  "name": "@kiyuen/config",
+  "version": "1.0.0",
+  "description": "My personal configuration files",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": {
+    "name": "kiyuen",
+    "url": "https://kiyuen.dev"
+  },
+  "license": "MIT"
+}
