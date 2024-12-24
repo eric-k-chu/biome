@@ -1,2 +1,3 @@
-# biome
-personal repository for linter/formatter json files
+# jsonconfig
+
+My personal repo for my configuration files, mainly biome and prettier.
