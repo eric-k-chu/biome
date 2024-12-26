@@ -1,3 +1,3 @@
 # config
 
-My personal repo for my configuration files, mainly biome and prettier.
+Repo for formatter/linter config files, mainly biome and prettier.
